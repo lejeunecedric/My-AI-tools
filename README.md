@@ -32,7 +32,8 @@ Continue is a full CI/CD environment, I only use the VS module.
 ## n8n
 https://n8n.io
 
-License : OpenCore https://github.com/n8n-io/n8n/blob/master/LICENSE.md
+License : OpenCore 
+https://github.com/n8n-io/n8n/blob/master/LICENSE.md
 
 A web workflow editor for AI workflows.
 
