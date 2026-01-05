@@ -97,5 +97,27 @@ License : MIT
 
 An LLM inference server optimised for speed by using priorities between "neurons" so only the hot ones get activated in the GPU. Allows to run rather big models on consumer GPUs.
 
+### Test results : 
+end up with a Llama setup with no proper server
+
+## TabbyAPI
+
+https://github.com/theroyallab/tabbyAPI
+
+License : AGPL 3.0
+
+An LLM inference server optimised for low latency and new quantization algorithms
+
+### Test results : 
+Needs a GUI, the official being SillyTavern
+
+## Silly Tavern
+
+https://docs.sillytavern.app
+
+A web GUI that can access many types of LLM APIs and does many crazy things. No success with the TabbyAPI.
+
+### Test results : 
+crazy GUI with tons of parameters
 
 
