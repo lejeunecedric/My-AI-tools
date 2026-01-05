@@ -115,9 +115,9 @@ Needs a GUI, the official being SillyTavern
 
 https://docs.sillytavern.app
 
-A web GUI that can access many types of LLM APIs and does many crazy things. No success with the TabbyAPI.
+A web GUI that can access many types of LLM APIs and does many crazy things. 
 
 ### Test results : 
-crazy GUI with tons of parameters
+crazy GUI with tons of parameters. No success with the TabbyAPI.
 
 
