@@ -71,6 +71,8 @@ Used through Mistral API inside Continue. I also use Github Copilot in VS Code.
 ## LocalAI 
 https://localai.io/
 
+License : 
+
 A suite of tools ( that can run in Containers) for running LLMs locally (LocalAI), configure Agents (LocalAGI) and manage "knowledge" bases (LocalRecall)
 The GUI is a little too funky to my taste but it has some interesting features.
 
@@ -86,8 +88,14 @@ https://github.com/exo-explore/exo
 
 License : Apache 2.0
 
-
 A tool to build AI clusters 
+
+## Power Infer
+https://github.com/SJTU-IPADS/PowerInfer
+
+License : MIT
+
+An LLM inference server optimised for speed by using priorities between "neurons" so only the hot ones get activated in the GPU. Allows to run rather big models on consumer GPUs.
 
 
 
