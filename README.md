@@ -4,7 +4,9 @@ A place where I store my favorite AI tools and their configuration. In general I
 # Current Setup
 ## LM Studio
 https://lmstudio.ai
+
 License : MIT 
+
 A tool to run LLMs locally, can run multiple at the same time. I prefer it over Ollama because it has a lot of controls in the GUI to fine-tune the way you load the model. It also has an integrated chatbot with realtime logging which is very useful when debugging or optimising.
 
 ## Anything LLM
